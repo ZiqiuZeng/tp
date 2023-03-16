@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-16T10:23:55.811275Z</date>
+  <millis>1678962235811</millis>
+  <nanos>275000</nanos>
+  <sequence>0</sequence>
+  <logger>seedu.badMaths.HelpManual</logger>
+  <level>INFO</level>
+  <class>seedu.badMaths.HelpManual</class>
+  <method>readHelpManual</method>
+  <thread>1</thread>
+  <message>going to start processing</message>
+</record>
+<record>
+  <date>2023-03-16T10:23:55.816469Z</date>
+  <millis>1678962235816</millis>
+  <nanos>469000</nanos>
+  <sequence>1</sequence>
+  <logger>seedu.badMaths.HelpManual</logger>
+  <level>INFO</level>
+  <class>seedu.badMaths.HelpManual</class>
+  <method>readHelpManual</method>
+  <thread>1</thread>
+  <message>Successfully read Help Manual file.</message>
+</record>
+</log>
